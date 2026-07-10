@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # football_prediction
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# football_prediction
+>>>>>>> 53b005fb6d647c5e81e434a5a0de1629c7f813ea
